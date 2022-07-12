@@ -1,0 +1,112 @@
+/* Indeks, Ime i Prezime */
+
+#container{
+    background-image: url("img/containe.jpg");
+}
+p{
+    width: 26%;
+}
+#pageHeader h1{
+    background-image: url("img/intro_ti.jpg");
+    background-repeat: no-repeat;
+    height: 110px;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    left: 60px;
+}
+#pageHeader h2{
+    background-image: url("img/header.gif");
+    background-repeat: no-repeat;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    left: 335px;
+    height: 30px;
+}
+#quickSummary p{
+    position: relative;
+    left: 350px;
+    color: rgba(18, 61, 1, 0.87);
+}
+#preamble h3{
+    background-image: url("img/header.gif");
+    background-repeat: no-repeat;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    left: 335px;
+    height: 30px;
+}
+#preamble p{
+    position: relative;
+    left: 350px;
+    color: rgba(18, 61, 1, 0.87);
+}
+#explanation h3{
+    background-image: url("img/header.gif");
+    background-repeat: no-repeat;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    left: 335px;
+    height: 30px;
+}
+#explanation p{
+    position: relative;
+    left: 350px;
+    color: rgba(18, 61, 1, 0.87);
+}
+#footer a{
+    color:  rgba(18, 61, 1, 0.87);
+    position: relative;
+    left: 440px;
+}
+#linkList{
+    position: relative;
+    left: 60px;
+    top: -930px;
+}
+#lselect li{
+    list-style: none;
+    position: relative;
+    left: -30px;
+    background-image: url("img/li_bg_ta.gif");
+    background-repeat: no-repeat;
+    height: 15px;
+}
+#lselect h3{
+    background-image: url("img/select_n.gif");
+    background-repeat: no-repeat;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#lselect li{
+    margin-top: 10px;
+}
+#lselect a{
+    font-weight: bold;
+    color:  rgba(18, 61, 1, 0.87);
+}
+#larchives h3{
+    background-image: url("img/archive_.gif");
+    background-repeat: no-repeat;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    left: -2px;
+}
+#larchives li{
+    list-style: none;
+    position: relative;
+    left: -20px;
+}
+#larchives a{
+    color:  rgba(18, 61, 1, 0.87);
+}
